@@ -1,5 +1,6 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
+[![Build Status](https://suraj-ecanarys.visualstudio.com/agile_demo/_apis/build/status/surajshenoy.ContosoAir?branchName=master)](https://suraj-ecanarys.visualstudio.com/agile_demo/_build/latest?definitionId=125&branchName=master)
 
 # Microsoft.Github CI Demo
 
